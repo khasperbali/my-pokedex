@@ -17,7 +17,7 @@ document.getElementById("type2").innerHTML = "water";
 // Pokemon 3
 // Find the div with the id of "pokeNumber3" and replace the text n/a with 116:
 // Place your code below
-document.getElementById("pokeNumber3").innerHTML = "116:";
+document.getElementById("pokeNumber3").innerHTML = "116";
 
 
 
